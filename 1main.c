@@ -4,8 +4,8 @@
 main()
 {
 int h,k;
-printf();
-scanf();
+printf(" ");
+scanf(" ");
 printf ("k+h=%d",h+k);
 return 0;
 }
